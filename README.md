@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+## Install Json database server
+```
+npm install -g json-server
+```
+
 ## Database server setup
 ```
 json-server --d db.json
