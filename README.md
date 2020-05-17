@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## database server setup
+```
+run json-server --d db.json
+```
 
 ### Compiles and hot-reloads for development
 ```
